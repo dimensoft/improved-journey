@@ -1,4 +1,4 @@
-package textcluster;
+package com.ilog.impala;
 
 
     public class TermVector

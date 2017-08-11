@@ -1,4 +1,4 @@
-package textcluster;
+package com.ilog.impala;
 
 import java.util.ArrayList;
 import java.util.List;

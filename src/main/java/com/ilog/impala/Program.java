@@ -1,4 +1,4 @@
-package textcluster;
+package com.ilog.impala;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
