@@ -1,4 +1,4 @@
-package com.ws.hive.demo.testhive;
+package com.ilog.hive;
 
 
 import java.sql.Connection;
