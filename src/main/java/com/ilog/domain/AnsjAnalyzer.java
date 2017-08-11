@@ -6,7 +6,11 @@ import java.io.Reader;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
-
+/**
+ * 
+ * @author wanghaimei
+ *
+ */
 public class AnsjAnalyzer extends Analyzer {
 
 	/**

@@ -16,7 +16,11 @@ import org.apache.lucene.analysis.tokenattributes.PositionIncrementAttribute;
 import org.apache.lucene.analysis.tokenattributes.TypeAttribute;
 import org.apache.lucene.index.Term;
 
-
+/**
+ * 
+ * @author wanghaimei
+ *
+ */
 public class AnsjTokenizer extends Tokenizer{
 
 	private final static String PUNCTION = "。，！？；,!?;";

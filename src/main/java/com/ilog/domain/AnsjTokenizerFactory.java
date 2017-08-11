@@ -13,7 +13,11 @@ import org.apache.lucene.analysis.Tokenizer;
 import org.apache.lucene.analysis.util.TokenizerFactory;
 import org.apache.lucene.util.AttributeFactory;
 
-
+/**
+ * 
+ * @author wanghaimei
+ *
+ */
 public class  AnsjTokenizerFactory extends TokenizerFactory {
 
 	private int analysisType = 0;

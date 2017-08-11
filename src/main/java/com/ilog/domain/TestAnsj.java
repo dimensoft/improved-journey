@@ -1,4 +1,4 @@
-package org.ansj.solr;
+package com.ilog.domain;
 
 import java.io.IOException;
 import java.io.StringReader;
@@ -13,7 +13,11 @@ import org.apache.lucene.analysis.tokenattributes.OffsetAttribute;
 import org.apache.lucene.analysis.tokenattributes.PositionIncrementAttribute;
 
 
-
+/**
+ * 
+ * @author wanghaimei
+ *
+ */
 public class TestAnsj {
 	
 	public static void main(String[] args) throws IOException {

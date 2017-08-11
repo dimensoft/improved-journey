@@ -23,7 +23,11 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.LockObtainFailedException;
 import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
-
+/**
+ * 
+ * @author wanghaimei
+ *
+ */
 public class AnsjLuceneTest {
 
 	public static void main(String[] args) {
