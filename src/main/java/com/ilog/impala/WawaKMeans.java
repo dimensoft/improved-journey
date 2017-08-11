@@ -1,7 +1,9 @@
 package com.ilog.impala;
 
 import java.util.Random;
-
+/**
+ * @author huzhengyuan
+ */
 
     public class WawaKMeans
     {

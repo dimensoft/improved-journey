@@ -2,7 +2,9 @@ package com.ilog.impala;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author huzhengyuan
+ */
      public class WawaCluster
     {
         public WawaCluster(int dataindex,double[] data)

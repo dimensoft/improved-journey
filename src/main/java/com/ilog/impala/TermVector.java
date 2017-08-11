@@ -1,6 +1,8 @@
 package com.ilog.impala;
 
-
+/**
+ * @author huzhengyuan
+ */
     public class TermVector
     {
         public static double ComputeCosineSimilarity(double[] vector1, double[] vector2)

@@ -5,10 +5,8 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/*
- Tokenization
- Author: Thanh Ngoc Dao - Thanh.dao@gmx.net
- Copyright (c) 2005 by Thanh Ngoc Dao.
+/**
+ * @author huzhengyuan
  */
 
 /// <summary>

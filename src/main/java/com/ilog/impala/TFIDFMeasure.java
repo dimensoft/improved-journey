@@ -6,7 +6,9 @@ import java.util.Dictionary;
 import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.List;
-
+/**
+ * @author huzhengyuan
+ */
 public class TFIDFMeasure {
 
 	

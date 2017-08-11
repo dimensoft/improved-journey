@@ -1,5 +1,7 @@
 package com.ilog.impala;
-
+/**
+ * @author huzhengyuan
+ */
 import java.util.List;
 
 
