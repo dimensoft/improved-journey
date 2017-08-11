@@ -1,4 +1,4 @@
-package cn.com.dimensoft;
+package com.ilog.solr;
 
 import java.net.MalformedURLException;
 
@@ -9,7 +9,11 @@ import org.apache.solr.client.solrj.impl.CloudSolrServer;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocumentList;
 import org.apache.solr.common.params.ModifiableSolrParams;
-
+/**
+ * solr ²éÑ¯½Ó¿Ú
+ * @author jason
+ *
+ */
 public class SolrCloudSolrJSearcher {
 	public static void main(String[] args) throws MalformedURLException, SolrServerException {
 		String zkHost = "localhost:2181";

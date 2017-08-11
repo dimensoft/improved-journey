@@ -8,7 +8,12 @@ import org.apache.solr.client.solrj.SolrQuery.ORDER;
 import org.apache.solr.client.solrj.impl.HttpSolrServer;
 import org.apache.solr.client.solrj.response.QueryResponse;
 import org.apache.solr.common.SolrDocumentList;
-
+/***
+ * solr ≤È—Ø
+ *  
+ * @author jason
+ *
+ */
 public class SolrJSearcher {
 	public static void main(String[] args) throws MalformedURLException, SolrServerException {
 		HttpSolrServer solr = new HttpSolrServer("http://localhost:8983/solr");

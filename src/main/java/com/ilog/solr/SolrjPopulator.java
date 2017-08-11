@@ -5,7 +5,11 @@ import java.io.IOException;
 import org.apache.solr.client.solrj.SolrServerException;
 import org.apache.solr.client.solrj.impl.HttpSolrServer;
 import org.apache.solr.common.SolrInputDocument;
-
+/**
+ * ≤È—Ø
+ * @author jason
+ *
+ */
 public class SolrjPopulator {
 	public static void main(String[] args) throws IOException, SolrServerException {
 		HttpSolrServer server = new HttpSolrServer("http://localhost:8983/solr");

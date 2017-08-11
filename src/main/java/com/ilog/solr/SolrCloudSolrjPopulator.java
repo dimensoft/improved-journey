@@ -5,7 +5,11 @@ import java.io.IOException;
 import org.apache.solr.client.solrj.SolrServerException;
 import org.apache.solr.client.solrj.impl.CloudSolrServer;
 import org.apache.solr.common.SolrInputDocument;
-
+/**
+ * ≤Â»Î ˝æ›
+ * @author jason
+ *
+ */
 public class SolrCloudSolrjPopulator {
 	public static void main(String[] args) throws IOException, SolrServerException {
 		String zkHost = "localhost:2181";
