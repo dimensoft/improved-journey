@@ -1,6 +1,6 @@
 
 
-package com.ilog.domain;
+package com.ilog.domainV2;
 
 import java.io.Reader;
 

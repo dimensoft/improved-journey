@@ -1,4 +1,4 @@
-package org.ansj.solr;
+package com.ilog.domainV2;
 
 import java.io.IOException;
 import java.io.StringReader;
